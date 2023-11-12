@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/PBL5_SmartGarden_Final/train_images/images/train
+val: /content/drive/MyDrive/PBL5_SmartGarden_Final/train_images/images/valid
+test: /content/drive/MyDrive/PBL5_SmartGarden_Final/train_images/images/test
+is_coco: False
+nc: 6
+names: ['QuaNon', 'QuanChinNon_X', 'QuaChinNon_D', 'QuaChinGan', 'QuaChin', 'QuaChinQua']
